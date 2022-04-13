@@ -54,7 +54,7 @@ p{
 
 /* Classes to make modal work */
 .hidden{
-    /* display: none; */
+    display: none;
 }
 
 .modal{
